@@ -1,6 +1,6 @@
 # Hello there 👋, This is Amlan
 ## I am a CSE student at NIT Rourkela
-<img  width="480" height="480" align="right" src="https://img.freepik.com/premium-vector/software-development-programming-language-coding_284092-33.jpg">
+<img  width="240" height="240" align="right" src="https://img.freepik.com/premium-vector/software-development-programming-language-coding_284092-33.jpg">
 
  With a keen interest in web development and a penchant for mastering Data Structures and Algorithms (DSA), I find joy in creating meaningful and efficient solutions to real-world problems.
 
