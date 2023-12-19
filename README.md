@@ -7,7 +7,7 @@
 🖥️ Currently immersed in the world of code, I'm excited to share my experiences, projects, and the knowledge I've gained on my GitHub repository. 
 
 🌐 My repository is a reflection of my commitment to excellence in both web development and algorithmic problem-solving. Let's connect, learn, and build amazing things together! 💻✨
-
+<br /><br /><br /><br />
 <h3 align="center">SKILLS:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
