@@ -1,5 +1,5 @@
-### Hello there 👋, This is Amlan
-#### I am a CSE student at NIT Rourkela
+# Hello there 👋, This is Amlan
+## I am a CSE student at NIT Rourkela
 ![GitHub](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
  With a keen interest in web development and a penchant for mastering Data Structures and Algorithms (DSA), I find joy in creating meaningful and efficient solutions to real-world problems.
