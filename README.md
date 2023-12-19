@@ -8,7 +8,7 @@
 
 🌐 My repository is a reflection of my commitment to excellence in both web development and algorithmic problem-solving. Let's connect, learn, and build amazing things together! 💻✨
 
-Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND 
+<h3 align="center">SKILLS:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nextjs,github&perline=5" />
