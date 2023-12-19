@@ -18,5 +18,5 @@
 <p align="center">
 <a href="https://www.instagram.com/amlan_sarangi23/" target="blank" ><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 <a href="https://www.linkedin.com/in/amlan-sarangi-a0236125b/" target="blank" ><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/AmlanSarangi3" target="blank" ><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/></a>
+<a href="https://twitter.com/AmlanSarangi3" target="blank" ><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png" alt="twitterx"/></a>
 
