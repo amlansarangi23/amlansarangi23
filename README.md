@@ -16,5 +16,5 @@
 </p>
 <h3 align="center">MY SOCIALS</h3>
 <p align="left">
-<a href="https://www.instagram.com/amlan_sarangi23/" target="blank<img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/></a>
+<a href="https://www.instagram.com/amlan_sarangi23/" target="blank><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 
