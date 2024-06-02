@@ -11,7 +11,7 @@
 <h3 align="center">SKILLS:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nextjs,github,nodejs,express,mongodb&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,js,react,nextjs,github,nodejs,express,mongodb&perline=4" />
   </a>
 </p>
 <h3 align="center">MY SOCIALS</h3>
